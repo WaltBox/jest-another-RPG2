@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waltbox/jest-another-RPG2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waltbox/jest-another-RPG2/issues"
+  },
+  "homepage": "https://github.com/Waltbox/jest-another-RPG2#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
