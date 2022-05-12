@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Waltbox/jest-another-RPG2#readme",
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
